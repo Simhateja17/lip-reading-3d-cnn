@@ -1,0 +1,10 @@
+0  predicted: next        true: next
+1  predicted: previous    true: previous
+2  predicted: connection  true: connection
+3  predicted: choose      true: choose
+4  predicted: choose      true: choose
+5  predicted: stop        true: previous
+6  predicted: begin       true: begin
+7  predicted: hello       true: hello
+8  predicted: web         true: web
+9  predicted: connection  true: connection

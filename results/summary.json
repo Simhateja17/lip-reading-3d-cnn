@@ -1,0 +1,15 @@
+{
+  "parameters": 1711864,
+  "epochs": 20,
+  "train_clips": 960,
+  "validation_clips": 240,
+  "test_clips": 300,
+  "final_train_accuracy": 0.9239583611488342,
+  "final_val_accuracy": 0.8708333373069763,
+  "test_accuracy": 0.8899999856948853,
+  "final_train_loss": 0.23757396638393402,
+  "final_val_loss": 0.36305373907089233,
+  "test_loss": 0.3377549350261688,
+  "best_val_loss": 0.36305373907089233,
+  "best_val_loss_epoch": 20
+}

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.pdf
+# the dataset is several GB; download it separately
+data_miracl/
+dataset/
